@@ -194,4 +194,4 @@ async def revip(ctx):
         embed = discord.Embed(title=ctx.message.content.replace('?revip', ''), description=reverse, color=5814783)
         await ctx.send(embed=embed)
 
-client.run('OTIyMTA1MTQxODc4OTg4ODMx.Yb8nVQ.4LPL3E4tSIJlIsUAvfa8KKt4Ri4')
+client.run(TOKEN)
