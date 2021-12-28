@@ -24,9 +24,6 @@ async def help(ctx, args=None):
 
     await ctx.send(embed=help_embed)
 
-# favorite anime checker
-# favorite character checker
-
 hentai = [
     'link.com'
 ]
